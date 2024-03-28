@@ -41,7 +41,7 @@ function Header() {
         )}
 
         <div
-          className={`top-0 right-0 w-[35vw] text-center bg-[rgb(40,53,62)] h-full text-white fixed z-40 pl-2 md:mt-0 md:p-0 md:top-0 md:flex-row md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center ease-in-out duration-300 ${
+          className={`top-0 right-0 w-[35vw] text-center bg-[rgb(40,53,62)] h-full text-white fixed z-40 pl-2 md:mt-0 md:p-0 md:top-0 md:flex-row md:relative md:bg-transparent  md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center ease-in-out duration-300 ${
             showSidebar ? "translate-x-0 " : "translate-x-full"
           }`}
         >
